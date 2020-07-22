@@ -17,7 +17,7 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 =============  ==========
 `第1回`_       |colab01|
 `第2回`_       |colab02|
-`第3回`_       |colab02|
+`第3回`_       |colab03|
 =============  ==========
 
 .. _第1回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe01.ipynb
@@ -27,10 +27,10 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 .. |colab01| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe01.ipynb
 
-.. |colab01| image:: https://colab.research.google.com/assets/colab-badge.svg
+.. |colab02| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe02.ipynb
 
-.. |colab01| image:: https://colab.research.google.com/assets/colab-badge.svg
+.. |colab03| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe03.ipynb
 
 Copyright, License
