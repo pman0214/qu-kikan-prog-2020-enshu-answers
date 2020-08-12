@@ -14,14 +14,16 @@
 
 Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バッジをクリックしてください。
 
-=============  ==========
+=============  ====================
 `第1回`_       |colab01|
 `第2回`_       |colab02|
 `第3回`_       |colab03|
 `第4回`_       |colab04|
 `第5回`_       |colab05|
 `第6回`_       |colab06|
-=============  ==========
+第7回          演習はありません
+`第8回`_       |colab08|
+=============  ====================
 
 .. _第1回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe01.ipynb
 .. _第2回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe02.ipynb
@@ -29,6 +31,7 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 .. _第4回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe04.ipynb
 .. _第5回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe05.ipynb
 .. _第6回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe06.ipynb
+.. _第8回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe08.ipynb
 
 .. |colab01| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe01.ipynb
@@ -47,6 +50,9 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 
 .. |colab06| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe06.ipynb
+
+.. |colab08| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe08.ipynb
 
 Copyright, License
 ==================
