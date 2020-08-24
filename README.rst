@@ -24,8 +24,11 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 第7回          演習はありません
 `第8回`_       |colab08|
 `第9回`_       |colab09|
-`第10回`_      |colab010|
+`第10回`_      |colab10|
 第11回         演習はありません
+`第12回`_      |colab12|
+`第13回`_      |colab13|
+`最終課題`_    |colab_final|
 =============  ====================
 
 .. _第1回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe01.ipynb
@@ -37,6 +40,9 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 .. _第8回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe08.ipynb
 .. _第9回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe09.ipynb
 .. _第10回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe10.ipynb
+.. _第12回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe12.ipynb
+.. _第13回: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe13.ipynb
+.. _最終課題: https://github.com/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/final.ipynb
 
 .. |colab01| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe01.ipynb
@@ -62,8 +68,17 @@ Google Colabに取り込んで実行したい場合は\ ``Open in Colab``\ バ�
 .. |colab09| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe09.ipynb
 
-.. |colab010| image:: https://colab.research.google.com/assets/colab-badge.svg
+.. |colab10| image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe10.ipynb
+
+.. |colab12| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe12.ipynb
+
+.. |colab13| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/exe13.ipynb
+
+.. |colab_final| image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/github/pman0214/qu-kikan-prog-2020-enshu-answers/blob/master/final.ipynb
 
 Copyright, License
 ==================
